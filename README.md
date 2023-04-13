@@ -72,7 +72,7 @@ Server Setup & Control Scripts for LabHacker's Cookbook
 
 While the `LabHacker's` project follows good security practices, 100% security can never be guaranteed in any software package.  The `LabHacker's Server Scripts` is provided AS IS, and without warranty.  You can find more details in the [LICENSE](LICENSE) file included with this repository.
 
-If you discover any issue regarding the security of this project, please disclose that information responsibly by sending an email to security@ragdata.dev.  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
+If you discover any issue regarding the security of this project, please disclose that information responsibly by sending a [security advisory][advisory].  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
 
 [`^ Top`](#toc)
 
@@ -191,6 +191,7 @@ Find out more on my [**Sponsor's Page**][sponsors]
 [`^ Top`](#toc)
 
 
+[advisory]: https://github.com/labhackers/servers/security/advisories/new
 [all-contributors]: https://allcontributors.org
 [contributing]: https://github.com/labhackers/.github/blob/master/.github/CONTRIBUTING.md
 [issues]: https://github.com/labhackers/servers/issues
